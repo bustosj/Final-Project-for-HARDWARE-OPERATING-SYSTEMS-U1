@@ -1,1 +1,3 @@
-# Final-Project-for-HARDWARE-OPERATING-SYSTEMS-U1
+This is my final project for HARDWARE & OPERATING SYSTEMS U1!
+
+I decided to make a program that 
