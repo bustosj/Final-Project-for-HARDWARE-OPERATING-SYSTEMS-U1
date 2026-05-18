@@ -1,4 +1,4 @@
-print("Welcome to the Basic Help Desk Ticket Program")
+print("Welcome to my Help Desk Ticket Program")
 
 # lists used to store ticket information 
 
