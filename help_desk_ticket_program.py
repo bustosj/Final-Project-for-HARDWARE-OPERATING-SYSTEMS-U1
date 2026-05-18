@@ -95,7 +95,7 @@ while running:
             print("\nTickets saved to help_desk_tickets.txt")
 
     elif choice == "4":
-        print("\nThank you for using the Basic Help Desk Ticket Program.")
+        print("\nThank you for using my Help Desk Ticket Program.")
         running = False
 
     else:
